@@ -1,0 +1,25 @@
+.work-page h1 {
+  font-family: Playfair Display;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+}
+.work-page {
+  padding: 160px 20px;
+}
+.work-page h3 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+.work-page p {
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;
+  font-family: Poppins;
+}
